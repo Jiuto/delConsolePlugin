@@ -1,0 +1,11 @@
+{
+  "name": "delnorc",
+  "version": "1.0.0",
+  "description": "This is a webpack plugin for deleting notes and console",
+  "main": "delNorC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crx",
+  "license": "ISC"
+}
