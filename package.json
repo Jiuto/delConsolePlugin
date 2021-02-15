@@ -1,11 +1,19 @@
 {
-  "name": "delnorc",
+  "name": "del-console-plugin",
   "version": "1.0.0",
-  "description": "This is a webpack plugin for deleting notes and console",
-  "main": "delNorC.js",
+  "description": "This is a webpack plugin for deleting console",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "crx",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiuto/delConsolePlugin.git"
+  },
+  "author": "Jiuto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiuto/delConsolePlugin/issues"
+  },
+  "homepage": "https://github.com/Jiuto/delConsolePlugin#readme"
 }
